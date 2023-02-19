@@ -1,0 +1,83 @@
+baseURL: # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Taylor Justason
+paginate: 5
+theme: charlolamode
+
+
+
+menu:
+    main:
+        - name: Research
+          url: /research/
+          weight: 40
+        - name: Publications
+          url: /publications/
+          weight: 30
+        - name: CV
+          url: /cv/
+          weight: 20
+        - name: About
+          url: /about/
+          weight: 10
+   
+
+
+params:
+    author: Taylor Justason
+
+
+    defaultTheme: auto
+    disableThemeToggle: false
+    ShowShareButtons: false
+    ShowReadingTime: false
+    displayFullLangName: true
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowToc: false
+    hideMeta: true
+    hideSummary: false
+
+    profileMode:
+        enabled: true
+        title: Taylor Justason
+        description: |
+
+          Hello, I am Taylor Justason
+          
+            I am a wildlife biologist passionate about conservation and natural resource management. 
+
+        imageUrl: "/images/profile.png"
+        imageTitle: my image
+        # imageWidth: 120
+        # imageHeight: 120
+
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: linkedin
+          url: "https://www.linkedin.com/in/taylor-justason-3a91b115b/"
+        - name: twitter
+          url: https://twitter.com/taylor_justason
+        - name: cv
+          url: cv.pdf
+        - name: inaturalist
+          url: https://inaturalist.ca/people/taylor_justason
+
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
