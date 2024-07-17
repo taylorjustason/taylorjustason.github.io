@@ -1,6 +1,12 @@
 ---
-title: Publications
+title: Publications and Other Works 
 ---
-- "Global Trade in Seahorses: A Review and Recommendations for their Conservation" - Biological Conservation (co-author)
-- "Recreation Impacts on Wildlife in Protected Areas" - Bornean Orangutan Survival Foundation (contributor)
-- "Best Practices for Camera Trapping in Conservation" - WildCAM (author)
+
+
+CITES makes a measurable difference to the trade in live marine fishes: The pioneering case of seahorses
+
+Article: Biological Conservation 272(1):109653
+
+Date: August 2022
+
+Authors: S.J. Foster, T. Justason, A.M. Magera, A.C.J. Vincent
