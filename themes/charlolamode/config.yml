@@ -42,10 +42,12 @@ params:
         title: Taylor Justason
         description: |
 
-          Hello, I am Taylor Justason
+          Welcome! My name is Taylor.
           
-            I am a wildlife biologist passionate about conservation and natural resource management. 
+            I’m a Canadian wildlife biologist with experience in large mammal ecology and conservation, wildlife trade, protected areas, and impact assessment. I currently work for Parks Canada, where I work on large mammals and support the wildlife components of pre- and post-decision impact assessment in Nahanni National Park.
 
+            You can read more about my work, research, and educational background in the About, CV, and Publications tabs located above.
+            
         imageUrl: "/images/profile.png"
         imageTitle: my image
         # imageWidth: 120
